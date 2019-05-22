@@ -1,5 +1,3 @@
 Git commands even a monkey can understand
 Register a change in an index
 commit: Save the status of an index
-pull: Obtain the content of the remote repository
-commit: Save the status of an index for testing git commit --amend
