@@ -3,3 +3,4 @@ Register a change in an index
 commit: Save the status of an index
 this is issue3
 this is issue3 again
+make some changes to differ with issue2
