@@ -3,9 +3,5 @@ Register a change in an index
 commit: Save the status of an index
 this is issue3
 this is issue3 again
-<<<<<<< HEAD
 make some changes to differ with issue2
 issue2 ready to pick this commit as doing cheery pick
-=======
-issue2 ready to pick this commit as doing cheery pick
->>>>>>> issue2
