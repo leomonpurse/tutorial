@@ -1,0 +1,4 @@
+test rebase
+make a new commit at issue2 branch and then merge to master(commit a)
+then and a new commit at issue3 and merge to master(commit b)
+check the final commit whether is c
